@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanfelipehdezm
 - 👀 I’m interested in data engineering and data analysis
-- 🌱 I’m currently learning spark and planning on learning AWS or some cloud service as next step
+- 🌱 I’m currently learning AWS and docker, and plnning in learning NoSQL databses
 - 💞️ I’m looking to collaborate on some basic/intermediate data related projects
 - 📫 How to reach me juanfelipehdezm@gmail.com
 
