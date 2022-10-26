@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanfelipehdezm
 - 👀 I’m interested in data engineering and data analysis
-- 🌱 I’m currently learning Airlow and GCP
+- 🌱 I’m currently learning Airlow and  AWS
 - 💞️ I’m looking to collaborate on some basic/intermediate data related projects
 - 📫 How to reach me juanfelipehdezm@gmail.com
 
