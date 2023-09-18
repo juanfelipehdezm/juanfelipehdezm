@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @juanfelipehdezm<br>👀 I’m interested in data engineering and data analysis<br>🌱 I’m currently learning Airflow and AWS<br>💞️ I’m looking to collaborate on some basic/intermediate data-related projects<br>📫 How to reach me juanfelipehdezm@gmail.com
+👋 Hi, I’m @juanfelipehdezm<br>👀 I’m interested in data engineering and data analysis<br>🌱 Always in the process of learning new technologies<br>💞️ I’m looking to collaborate on some basic/intermediate data-related projects<br>📫 How to reach me juanfelipehdezm@gmail.com
 
 
 ## 🌐 Socials:
